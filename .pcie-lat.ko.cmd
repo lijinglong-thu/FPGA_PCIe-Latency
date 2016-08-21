@@ -1,0 +1,1 @@
+cmd_/home/aqiu/Desktop/pcie-lat-master/pcie-lat.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/aqiu/Desktop/pcie-lat-master/pcie-lat.ko /home/aqiu/Desktop/pcie-lat-master/pcie-lat.o /home/aqiu/Desktop/pcie-lat-master/pcie-lat.mod.o
